@@ -21,5 +21,8 @@
   "main": "lib/handlebars.js",
   "bin": {
     "handlebars": "bin/handlebars"
+  },
+  "scripts": {
+    "install": "rake release"
   }
 }
